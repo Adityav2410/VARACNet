@@ -1,5 +1,5 @@
 # VARACNet
-VARACNet is an ensemble of multiple Convolutional Neural Networks (CNN) finely tuned for detection and localization of traffic light. 
+VARACNet is an ensemble of multiple Convolutional Neural Networks (CNN) finely tuned for detection and localization of traffic light.   
 
 ## DATASET
 [Nexar Challenge Dataset](https://challenge.getnexar.com/challenge-1)
