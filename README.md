@@ -14,6 +14,11 @@ Each CNN in the model is built with the motive of giving superior performance wh
 
 ## RESULTS
 
+<img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic1.png" width=500 align="middle" >
+<img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic2.png" width=500 align="middle" >2
+<img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/nightTraffic.png" width=500 align="middle" >
+
+
 |    Model Name | Classification Accuracy(%) | Number of Parameters |  Challenge score | 
 |:-------------:|:--------------------------:|:--------------------:|:----------------:|
 |   Model 1     |            88.54           |        261,923       |       0.8838     |
