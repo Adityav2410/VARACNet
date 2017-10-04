@@ -34,3 +34,12 @@ Each CNN in the model is built with the motive of giving superior performance wh
 |   Model 4     |            88.1            |        640,163       |       0.8771     |
 |   SqueezeNet  |            87.7            |        712,697       |       0.8726     |
 |   VARACNet    |            91.7            |        1,827,624     |       0.9053     |
+
+
+## Contributors
+* Aditya Verma
+* Akshaya Purohit
+* Chetan Gandotara
+* Rishabh Mishra
+* Vamshi Gudavarthi
+
