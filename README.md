@@ -17,7 +17,7 @@ Each CNN in the model is built with the motive of giving superior performance wh
 <img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic1.png" width=350 height=275 align="middle" >                   <img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/nightTraffic.png" width=350 height=275 align="middle" >
 
 
-.                                <img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic2.png" width=350 align="middle" >
+.                                <img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic2.png" width=350 align="center" >
 
 
 
