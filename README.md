@@ -37,6 +37,7 @@ Each CNN in the model is built with the motive of giving superior performance wh
 
 
 ## Contributors
+```
 * Aditya Verma
 * Akshaya Purohit
 * Chetan Gandotara
