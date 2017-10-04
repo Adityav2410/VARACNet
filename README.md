@@ -7,12 +7,24 @@ VARACNet is an ensemble of multiple Convolutional Neural Networks (CNN) finely t
 We also perform localization experiments using Faster R-CNN on a separate annotated dataset (UCSD traffic lights dataset) to demonstrate high performance for classification and detection tasks.
 
 ## Network Architecture
-<img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/architecture.png" width=500 align="middle" >
+[Ensemble model architecture](https://raw.githubusercontent.com/Adityav2410/VARACNet/master/assets/images/model.png)
 
 Each CNN in the model is built with the motive of giving superior performance while keeping the model size small. The sub-models have no more than 490k parameters but each achieves an accuracy greater than 87%. Models are tested and trained on the Nexar traffic lights challenge dataset with the aim of correctly recognizing the presence and state of traffic lights in images taken by the drivers using the Nexar app. We show that minimizing the number of parameters in each of the models allows quick training even when computational resources are not abundant.
 
 
 ## RESULTS
+<p align="center">
+<img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic2.png" height=250 align="center" />
+</p>
+<p align="center">
+<img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/dayTraffic1.png" width=350 height=275 align="middle" >                   <img src="https://github.com/Adityav2410/VARACNet/blob/master/assets/images/nightTraffic.png" width=350 height=275 align="middle" >
+</p>
+
+
+
+
+
+### Evaluation Metrics
 
 |    Model Name | Classification Accuracy(%) | Number of Parameters |  Challenge score | 
 |:-------------:|:--------------------------:|:--------------------:|:----------------:|
@@ -22,6 +34,3 @@ Each CNN in the model is built with the motive of giving superior performance wh
 |   Model 4     |            88.1            |        640,163       |       0.8771     |
 |   SqueezeNet  |            87.7            |        712,697       |       0.8726     |
 |   VARACNet    |            91.7            |        1,827,624     |       0.9053     |
-
-## REPORT
-[Project Report](https://drive.google.com/a/eng.ucsd.edu/file/d/0B8fEfjvUe2O-TnBObUpaOFJxejA/view?usp=sharing)
